@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minibus-sign/static/css/main.24d7e2cb.chunk.css",
+    "main.css": "/minibus-sign/static/css/main.d0c41da3.chunk.css",
     "main.js": "/minibus-sign/static/js/main.7feca205.chunk.js",
     "main.js.map": "/minibus-sign/static/js/main.7feca205.chunk.js.map",
     "runtime-main.js": "/minibus-sign/static/js/runtime-main.d95c8372.js",
@@ -8,13 +8,13 @@
     "static/js/2.79eaa571.chunk.js": "/minibus-sign/static/js/2.79eaa571.chunk.js",
     "static/js/2.79eaa571.chunk.js.map": "/minibus-sign/static/js/2.79eaa571.chunk.js.map",
     "index.html": "/minibus-sign/index.html",
-    "static/css/main.24d7e2cb.chunk.css.map": "/minibus-sign/static/css/main.24d7e2cb.chunk.css.map",
+    "static/css/main.d0c41da3.chunk.css.map": "/minibus-sign/static/css/main.d0c41da3.chunk.css.map",
     "static/js/2.79eaa571.chunk.js.LICENSE.txt": "/minibus-sign/static/js/2.79eaa571.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d95c8372.js",
     "static/js/2.79eaa571.chunk.js",
-    "static/css/main.24d7e2cb.chunk.css",
+    "static/css/main.d0c41da3.chunk.css",
     "static/js/main.7feca205.chunk.js"
   ]
 }
