@@ -1,32 +1,52 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 label {
-  display: block;
-  margin: 1em;
+    display: block;
+    margin: 1em;
 }
 .paai {
-	text-align: center;
-	border: 1px solid rgba(0,0,0,0.3);
-	margin: 2em;
-	border-radius: 30px;
-	box-shadow: 4px 4px 8px rgba(0,0,0,.5);
-	padding: 3em 3em;
-	text-shadow: 2px 2px rgba(0,0,0,0.5);
-	display: inline-block;
-	font-family: 'yuji_syuku_std';
-  font-size: 30px;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,0.3);
+    margin: 1em;
+    border-radius: 30px;
+    box-shadow: 4px 4px 8px rgba(0,0,0,.5);
+    padding: 3em 3em;
+    text-shadow: 2px 2px rgba(0,0,0,0.5);
+    display: inline-block;
+    font-family: 'yuji_syuku_std';
+    font-size: 10px;
 }
 p {
-	margin: 0;
+    margin: 0;
 }
 .line1 {
-	color: blue;
-	font-size: 5em;
-  line-height: 1em;
+    color: blue;
+    font-size: 5em;
+    line-height: 1em;
 }
 .line2 {
-	color: red;
-	font-size: 8em;
-  line-height: 1em;
+    color: red;
+    font-size: 8em;
+    line-height: 1em;
+}
+
+@media screen and (min-width: 480px) {
+    .paai {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    .paai {
+        margin: 1.5em;
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .paai {
+        margin: 2em;
+        font-size: 28px;
+    }
 }
